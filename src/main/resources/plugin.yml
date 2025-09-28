@@ -1,0 +1,9 @@
+name: Vein Miner for Geyser
+main: com.mintdino.veinminer.VeinMinerPlugin
+version: 1.0.0
+api-version: 1.21
+author: MintDino
+description: >
+  Vein Miner for Geyser allows mining entire veins of ore with one break.
+  Inspired by VeinMiner mod, fully compatible with GeyserMC.
+  
